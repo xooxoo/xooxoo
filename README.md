@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xooxoo
+- 👋 Hi, I’m Stanislav
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python and R
 - 📫 How to reach me: malinovskiyst@gmail.com
